@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 40px auto 0 auto;
+}
+h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+p {
+  font-size: 14px;
+  font-weight: 300;
+}
+.error {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px 0;
+  color: #f51b1b;
+}

@@ -1,0 +1,58 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+  margin-top: 20px;
+}
+
+.card-img-top {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.icon {
+  position: relative;
+  top: -30px;
+  border-radius: 50%;
+  text-align: center;
+  background: #f8f9fa;
+  margin: 0 auto;
+}
+
+.icon img {
+  width: 100%;
+  max-width: 80px;
+  vertical-align: middle;
+  border-style: none;
+}
+
+.text {
+  text-align: center;
+  color: #6c757d;
+  margin-top: -30px;
+}
+
+.text h3 {
+  text-transform: uppercase;
+  margin: 10px auto;
+}
+
+.text p {
+  text-transform: uppercase;
+  margin: 10px auto;
+}
+
+.text .degrees {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
